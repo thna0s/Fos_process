@@ -1,0 +1,21 @@
+[Defines]
+    INF_VERSION=0x00010006
+    BASE_NAME=FOs
+    FILE_GUID=2ed6fb59-000f-40e7-9301-cf67e2bc2472
+    VERSION_STRING=0.1
+    MODULE_TYPE=UEFI_APPLICATION
+    ENTRY_POINT=UefiMain
+
+[Sources]
+    boot.c
+    motion.c
+    tools.c
+
+[Packages]
+    MdePkg/MdePkg.dec
+
+[LibraryClasses]
+    UefiApplicationEntryPoint
+    UefiLib
+[Guids]
+    gEfiFileInfoGuid

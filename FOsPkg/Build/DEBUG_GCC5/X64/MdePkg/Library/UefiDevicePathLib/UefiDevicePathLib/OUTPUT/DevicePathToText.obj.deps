@@ -1,0 +1,42 @@
+/home/coding/CodingMaster/EDK/FOsPkg/Build/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/DevicePathToText.obj:  /home/coding/CodingMaster/EDK/MdePkg/Library/UefiDevicePathLib/DevicePathToText.c \
+ /home/coding/CodingMaster/EDK/FOsPkg/Build/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/DEBUG/AutoGen.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Uefi.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Uefi/UefiBaseType.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Base.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/X64/ProcessorBind.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Uefi/UefiSpec.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Uefi/UefiMultiPhase.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Guid/WinCertificate.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Protocol/DevicePath.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Guid/PcAnsi.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/IndustryStandard/Bluetooth.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/IndustryStandard/Acpi60.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/IndustryStandard/Acpi51.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/IndustryStandard/Acpi50.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/IndustryStandard/Acpi40.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/IndustryStandard/Acpi30.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/IndustryStandard/Acpi20.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/IndustryStandard/Acpi10.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/IndustryStandard/AcpiAml.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Protocol/SimpleTextIn.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Protocol/SimpleTextInEx.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Protocol/SimpleTextOut.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Uefi/UefiPxe.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Uefi/UefiGpt.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Guid/HiiFormMapMethodGuid.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Library/PcdLib.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Protocol/DevicePathUtilities.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Protocol/DebugPort.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Protocol/DevicePathToText.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Protocol/DevicePathFromText.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Library/DebugLib.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Library/PrintLib.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Library/BaseLib.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Library/BaseMemoryLib.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Library/MemoryAllocationLib.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Library/UefiBootServicesTableLib.h \
+ /home/coding/CodingMaster/EDK/MdePkg/Include/Library/DevicePathLib.h
+
+# Updated 

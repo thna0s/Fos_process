@@ -1,0 +1,7 @@
+/home/coding/CodingMaster/EDK/Conf/build_rule.txt
+/home/coding/CodingMaster/EDK/Conf/tools_def.txt
+/home/coding/CodingMaster/EDK/FOsPkg/Build/DEBUG_GCC5/BuildOptions
+/home/coding/CodingMaster/EDK/FOsPkg/Build/DEBUG_GCC5/PcdTokenNumber
+/home/coding/CodingMaster/EDK/FOsPkg/Build/DEBUG_GCC5/X64/TOOLS_DEF.X64
+/home/coding/CodingMaster/EDK/FOsPkg/FOsPkg.dsc
+/home/coding/CodingMaster/EDK/MdePkg/MdePkg.dec
